@@ -18,26 +18,26 @@ The system analyzes email content, calculates a **spam probability score**, and 
 - **AI Model:** DistilBERT (HuggingFace Transformers, PyTorch)
 
 ## ⚙️ Installation & Setup 
-pip install -r requirements.txt
-python main.py
+- pip install -r requirements.txt
+- python main.py
 (Keep the server running on localhost:8000)
 
 ## Browser Extension
-Open chrome://extensions or edge://extensions
-Enable Developer Mode
-Click Load Unpacked
-Select the extension/ folder
+- Open chrome://extensions or edge://extensions
+- Enable Developer Mode
+- Click Load Unpacked
+- Select the extension/ folder
 
 ## How It Works
-Open an email in Gmail
-Click the Edge AI Email Scanner
-Run full analysis
-View spam risk level and suspicious sentences
+- Open an email in Gmail
+- Click the Edge AI Email Scanner
+- Run full analysis
+- View spam risk level and suspicious sentences
 
 ## Privacy & Disclaimer
-Email content is analyzed locally
-No data is stored or shared
-AI-based assistant — always verify suspicious emails manually
+- Email content is analyzed locally
+- No data is stored or shared
+- AI-based assistant — always verify suspicious emails manually
 
 
 
